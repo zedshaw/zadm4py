@@ -1,10 +1,11 @@
-Zed's Awesome Debug Macros for Python
+Zed's Awesome Debug Macros for Python 3
 ====
 
 This is an idea I've had for a while to create some tools for helping people debug Python programs quicker.  This is based on what I see a lot of beginner struggle with and also what I find incredibly annoying about debugging Python.  Right now this is a quick hack to just get the basic guts of it working, and below is some of my ideas.
 
 I created a similar set of helper macros for C and they worked well for me, but I believe with Python I can make them even more useful.  Currently this is just a quick layout of what I want, with more work to come as I use this for real things.
 
+This is done in Python 3 since my current Live students need it and they're learning Python 3.
 
 Ideas So Far
 ====
